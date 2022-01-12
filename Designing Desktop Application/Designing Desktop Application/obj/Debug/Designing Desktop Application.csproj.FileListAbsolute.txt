@@ -1,0 +1,13 @@
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\bin\Debug\Designing Desktop Application.exe.config
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\bin\Debug\Designing Desktop Application.exe
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\bin\Debug\Designing Desktop Application.pdb
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing_Desktop_Application.Form1.resources
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing_Desktop_Application.Forms.formDashboard.resources
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing_Desktop_Application.Properties.Resources.resources
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing_Desktop_Application.UserControls.DashboardUC.resources
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing Desktop Application.csproj.GenerateResource.cache
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing Desktop Application.csproj.CoreCompileInputs.cache
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing Desktop Application.exe
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing Desktop Application.pdb
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing Desktop Application.csproj.AssemblyReference.cache
+C:\Users\JulkaKulka\Desktop\Designing Desktop Application\Designing Desktop Application\obj\Debug\Designing_Desktop_Application.UserControls.DonersUC.resources
